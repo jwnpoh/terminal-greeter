@@ -1,0 +1,4 @@
+github.com/logrusorgru/aurora v2.0.3+incompatible h1:tOpm7WcpBTn4fjmVfgpQq0EfczGlG91VSDkswnjF5A8=
+github.com/logrusorgru/aurora v2.0.3+incompatible/go.mod h1:7rIyQOR62GCctdiQpZ/zOJlFyk6y+94wXzv6RNZgaR4=
+gopkg.in/logrusorgru/aurora.v1 v1.0.0-20181002194514-a7b3b318ed4e h1:uKdf1KQDFZDYqNzSDhxB5hFxj5Fq4e3/C/ejtRJxlY0=
+gopkg.in/logrusorgru/aurora.v1 v1.0.0-20181002194514-a7b3b318ed4e/go.mod h1:DGR33jeYG1jxERD2W4hGjuW94Pxf3mkUf/Ddhf5BskA=
